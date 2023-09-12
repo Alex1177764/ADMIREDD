@@ -1,4 +1,5 @@
 
+<link rel="stylesheet" href="./assets/css/sidebar.css">
 <div class="left-side-menu">
 
                 <div class="slimscroll-menu">
@@ -46,13 +47,10 @@
                                     <span class="menu-arrow"></span>
                                 </a>
                                 <ul class="nav-second-level" aria-expanded="false">
-                                    <li><a href="pages-starter.html">Torre 1</a></li>
-                                    <li><a href="pages-login.html">Torre 2</a></li>
-                                    <li><a href="pages-register.html">Torre 3</a></li>
-                                    <li><a href="pages-recoverpw.html">Torre 4</a></li>
-                                    <li><a href="pages-lock-screen.html">Torre 5</a></li>
-                                    <li><a href="pages-404.html">Torre 6</a></li>
-                                    <li><a href="pages-500.html">Torre 7</a></li>
+                                <li><a href="?c=torres&m=torre_1">Torre 1</a></li>
+                                    <li><a href="?c=torres&m=torre_2">Torre 2</a></li>
+                                    <li><a href="?c=torres&m=torre_3">Torre 3</a></li>
+                                    <li><a href="?c=torres&m=torre_4">Torre 4</a></li>
                                 </ul>
                             </li>
 

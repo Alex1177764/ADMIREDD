@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./assets/css/show.css">
 <div class="content-page">
                 <div class="content">
                     

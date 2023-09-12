@@ -3,11 +3,10 @@
     padding: 0;
     box-sizing: border-box;
   }
-  
-  body {
-    background-image: url('fondo.jpg');
+  .page-title-box{
+    background-color: #3b60b1;
+    background-image: linear-gradient(100deg, #55c362, #c3707020);
   }
-  
   .form-register {
     width: 400px;
     background: #24303c;

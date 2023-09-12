@@ -1,16 +1,14 @@
 <link rel="stylesheet" href="./assets/css/create.css">
 <div class="content-page">
-                <div class="content">
-                    
-                    <!-- Start Content-->
-                    <div class="container-fluid">
-                        
-                        <!-- start page title -->
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="page-title-box">
-                                    <h4 class="page-title">Panel</h4>
-                                    <div class="row">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+            <!-- start page title -->
+            <div class="row">
+                <div class="col-12">
+                        <h4 class="page-title">Crear Usuario</h4>
                         <div class="page-title-box"><a href="?c=administrador&m=index" class="btn btn-success">Volver</a>
                         <section class="form-register">
                             <h3>Crear Usuario</h3>
@@ -32,14 +30,13 @@
                                 placeholder="Ingrese su Contraseña">
                             <input class="botons" type="submit" value="Crear">
                         </section>
-                        </div>
-                                </div>
-                            </div>
-                        </div>     
+                    </div>
+                </div>
+            </div>
 
-                        
-                        <!-- end row -->
-                        
-                    </div> <!-- end container-fluid -->
 
-                </div> <!-- end content -->
+            <!-- end row -->
+
+        </div> <!-- end container-fluid -->
+
+    </div> <!-- end content -->

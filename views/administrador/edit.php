@@ -10,8 +10,8 @@
                 <div class="col-12">
                     <div class="page-title-box">
                         <h4 class="page-title">Editar</h4>
-                        <section class="form-register">
                         <a href="?c=administrador&m=index" class="btn btn-success">Volver</a>
+                        <section class="form-register">
                             <h3>Editar Usaurio</h3>
                             <input class="controls" type="text" name="nombres" id="nombres"
                                 placeholder="Ingrese su Nombre" value="Maria">

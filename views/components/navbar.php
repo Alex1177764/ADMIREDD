@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./assets/css/navbar.css">
 <div class="navbar-custom">
                 <ul class="list-unstyled topnav-menu float-right mb-0">
 
@@ -226,23 +227,23 @@
                 <div class="logo-box">
                     <a href="index.html" class="logo text-center logo-dark">
                         <span class="logo-lg">
-                            <img src="assets/images/logo.png" alt="" height="22">
+                            <img src="./assets/imagenes/admired.png" alt="" height="50">
                             <!-- <span class="logo-lg-text-dark">Uplon</span> -->
                         </span>
                         <span class="logo-sm">
                             <!-- <span class="logo-lg-text-dark">U</span> -->
-                            <img src="assets/images/logo-sm.png" alt="" height="24">
+                            <img src="./assets/imagenes/admired.png" alt="" height="24">
                         </span>
                     </a>
 
                     <a href="index.html" class="logo text-center logo-light">
                         <span class="logo-lg">
-                            <img src="assets/images/logo-light.png" alt="" height="22">
+                            <img src="./assets/imagenes/admired.png" alt="" height="22">
                             <!-- <span class="logo-lg-text-dark">Uplon</span> -->
                         </span>
                         <span class="logo-sm">
                             <!-- <span class="logo-lg-text-dark">U</span> -->
-                            <img src="assets/images/logo-sm-light.png" alt="" height="24">
+                            <img src="./assets/imagenes/admired.png" alt="" height="24">
                         </span>
                     </a>
                 </div>
