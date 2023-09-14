@@ -1,14 +1,14 @@
 .content-page {
     padding: 20px;
-    background-color: #75625E; 
+    background-color: #fffcfb; 
 }
 
 .page-title-box {
-    background-color: #B6968F;
+    background-color: #fdf9f8;
     padding: 15px;
-    border-bottom:2px solid #75625E;
+    border-bottom:2px solid #f8f6f5;
     margin-bottom: 20px;
-    color: black;
+    color: rgb(250, 244, 244);
 }
 
 .page-title {
@@ -18,24 +18,27 @@
 
 h1, h2 {
     margin: 10px;
+    text-align: center;
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
-    border: 2px solid #75625E;
+    border: 2px solid #fffcfc;
 }
 
 th, td {
     padding: 8px;
     text-align: left;
-    border-bottom: 2px solid #75625E;
+    border-bottom: 2px solid #000000;
 }
-
+td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 2px solid #f9f3f3;
+    color: #000000;
+}
 th {
-    background-color: #75625E  ;
+    color: #000000;
 }
 
-tr:hover {
-    background-color: #75625E ;
-}

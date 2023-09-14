@@ -1,8 +1,8 @@
 
 .boton4 {
-    background: #81ee78;
-    color: #101018;
-    border: 2px solid #41d74d; 
+    background: #6d716c;
+    color: #000000;
+    border: 2px solid #afb6b0; 
     padding: 4px 8px;
     border-radius: 8px;
     position: relative;
@@ -12,11 +12,11 @@
   }
   .boton4:hover {
     overflow: hidden;
-    color: #fff;
+    color: #000000;
   }
   .boton4::after {
     content: "";
-    background: #0be516; 
+    background: #afb6b0; 
     position: absolute;
     z-index: -1;
     padding: 16px 20px;
@@ -139,11 +139,11 @@
     transform: scale(1, 1);
   }
   .page-title-box{
-    background-color: #3b60b1;
-    background-image: linear-gradient(100deg, #55c362, #c3707020);
+    background-color: #f5f7fa;
+    background-image: linear-gradient(100deg, #fcfefc, #fefafafc);
   }
   .card{
-    background-color: #979A9A;
+    background-color: #f5fbfb;
   }
   /* Estilos para la tabla */
   .table {

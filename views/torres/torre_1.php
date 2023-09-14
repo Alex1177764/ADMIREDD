@@ -14,8 +14,8 @@
 <h2>Torre 1</h2>
 <table>
     <tr>
-    <th width="50">ID</th>
-        <th>Nombre</th>
+    <th width="50"><p>ID</p></th>
+        <th><p></p>Nombre</p></th>
         <th>Apellido</th>
         <th>Cédula</th>
         <th>Correo</th>

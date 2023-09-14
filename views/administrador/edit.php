@@ -28,7 +28,7 @@
                             <input class="controls" type="text" name="numero_telefono" id="numero_telefono"
                                 placeholder="Ingrese su Numero de telefono" value="3158679908">
                             <input class="controls" type="password" name="correo" id="correo"
-                                placeholder="Ingrese su Contraseña">
+                                placeholder="Ingrese su Contraseña" value="Alex@1234">
                             <input class="botons" type="submit" value="editar">
                         </section>
                     </div>

@@ -9,9 +9,8 @@
                         <div class="row">
                             <div class="col-12">
                                 <div class="page-title-box">
-                                    <h4 class="page-title">Panel</h4>
-                                    <div class="row">
-                        <div class="page-title-box"><a href="?c=administrador&m=index" class="btn btn-success">Volver</a>
+                                    <h4 class="page-title">Crear Usuario</h4>
+                                    <div class="page-title-box"><a href="?c=administrador&m=index" class="btn btn-success">Volver</a>
                         <section class="form-register">
                             <h3>Crear Usuario</h3>
                             <input class="controls" type="text" name="nombres" id="nombres"
@@ -43,3 +42,4 @@
                     </div> <!-- end container-fluid -->
 
                 </div> <!-- end content -->
+                

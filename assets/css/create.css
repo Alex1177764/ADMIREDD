@@ -1,22 +1,14 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  .page-title-box{
-    background-color: #3b60b1;
-    background-image: linear-gradient(100deg, #55c362, #c3707020);
-  }
+
   .form-register {
     width: 400px;
-    background: #24303c;
+    background: #818386;
     padding: 30px;
     margin: auto;
     margin-top: 100px;
     border-radius: 4px;
     font-family: 'calibri';
-    color: white;
-    box-shadow: 7px 13px 37px #000;
+    color: rgb(0, 0, 0);
+    box-shadow: 7px 13px 37px #908989;
   }
   
   .form-register h4 {
@@ -26,14 +18,14 @@
   
   .controls {
     width: 100%;
-    background: #24303c;
+    background: #fcfcfc;
     padding: 10px;
     border-radius: 4px;
     margin-bottom: 16px;
-    border: 1px solid #1f53c5;
+    border: 1px solid #fbfbfd;
     font-family: 'calibri';
     font-size: 18px;
-    color: white;
+    color: rgb(0, 0, 0);
   }
   .form-register a {
     color: white;
@@ -47,7 +39,7 @@
   
   .form-register .botons {
     width: 100%;
-    background: #1f53c5;
+    background: #1564db;
     border: none;
     padding: 12px;
     color: white;

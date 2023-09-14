@@ -15,7 +15,7 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="card-box">
-                                            <h4 class="header-title mb-3">Inbox</h4>
+                                            <h4 class="header-title mb-3">Pqr</h4>
 
                                             <div class="inbox-widget slimscroll" style="max-height: 324px;">
                                                 <a href="#">
@@ -89,27 +89,27 @@
 
                                     <div class="col-md-6">
                                         <div class="card-box">
-                                            <h4 class="header-title mb-3">Sales Statistics</h4>
+                                            <h4 class="header-title mb-3">Estadisticas de pqr mensuales</h4>
 
-                                            <p class="font-weight-semibold mb-3">iMacs <span class="text-danger float-right"><b>78%</b></span></p>
+                                            <p class="font-weight-semibold mb-3">Pqr <span class="text-danger float-right"><b>78%</b></span></p>
                                             <div class="progress" style="height: 10px;">
                                                 <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 78%" aria-valuenow="78" aria-valuemin="0" aria-valuemax="78"></div>
                                             </div>
                                         </div>
 
                                         <div class="card-box">
-                                            <h4 class="header-title mb-3">Monthly Sales</h4>
+                                            <h4 class="header-title mb-3">Estadisticas de pqr quincenales</h4>
 
-                                            <p class="font-weight-semibold mb-2">Macbooks <span class="text-success float-right"><b>25%</b></span></p>
+                                            <p class="font-weight-semibold mb-2">Pqr <span class="text-success float-right"><b>25%</b></span></p>
                                             <div class="progress" style="height: 10px;">
                                                 <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
                                         </div>
 
                                         <div class="card-box">
-                                            <h4 class="header-title mb-3">Daily Sales</h4>
+                                            <h4 class="header-title mb-3">Estadisticas de pqr anuales</h4>
 
-                                            <p class="font-weight-semibold mb-2">Mobiles <span class="text-warning float-right"><b>75%</b></span></p>
+                                            <p class="font-weight-semibold mb-2">Pqr <span class="text-warning float-right"><b>75%</b></span></p>
                                             <div class="progress" style="height: 10px;">
                                                 <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
@@ -123,54 +123,54 @@
                             <div class="col-xl-5">
                                 <div class="card-box">
 
-                                    <h4 class="header-title mb-3">Top Contracts</h4>
+                                    <h4 class="header-title mb-3">Cuotas de administación</h4>
 
                                     <div class="table-responsive">
                                         <table class="table table-bordered table-nowrap mb-0">
                                             <thead>
                                                 <tr>
-                                                    <th>Company</th>
-                                                    <th>Start Date</th>
-                                                    <th>End Date</th>
-                                                    <th>Status</th>
+                                                    <th>usuarios</th>
+                                                    <th>fecha de inicio</th>
+                                                    <th>fecha final</th>
+                                                    <th>estado</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <th class="text-muted">Apple Technology</th>
+                                                    <th class="text-muted">Miguel</th>
                                                     <td>20/02/2014</td>
                                                     <td>19/02/2020</td>
-                                                    <td><span class="badge badge-success">Paid</span></td>
+                                                    <td><span class="badge badge-success">Pagado</span></td>
                                                 </tr>
                                                 <tr>
-                                                    <th class="text-muted">Envato Pty Ltd.</th>
+                                                    <th class="text-muted">Lorena</th>
                                                     <td>20/02/2014</td>
                                                     <td>19/02/2020</td>
-                                                    <td><span class="badge badge-danger">Unpaid</span></td>
+                                                    <td><span class="badge badge-danger">No pagado</span></td>
                                                 </tr>
                                                 <tr>
-                                                    <th class="text-muted">Dribbble LLC.</th>
+                                                    <th class="text-muted">Antonio</th>
                                                     <td>20/02/2014</td>
                                                     <td>19/02/2020</td>
-                                                    <td><span class="badge badge-success">Paid</span></td>
+                                                    <td><span class="badge badge-success">Pagado</span></td>
                                                 </tr>
                                             <tr>
-                                                    <th class="text-muted">Adobe Family</th>
+                                                    <th class="text-muted">Andrea</th>
                                                     <td>20/02/2014</td>
                                                     <td>19/02/2020</td>
-                                                    <td><span class="badge badge-success">Paid</span></td>
+                                                    <td><span class="badge badge-success">Pagado</span></td>
                                                 </tr>
                                             <tr>
-                                                    <th class="text-muted">Apple Technology</th>
+                                                    <th class="text-muted">Andres</th>
                                                     <td>20/02/2014</td>
                                                     <td>19/02/2020</td>
-                                                    <td><span class="badge badge-danger">Unpaid</span></td>
+                                                    <td><span class="badge badge-danger">No pagado</span></td>
                                                 </tr>
                                             <tr>
-                                                    <th class="text-muted">Envato Pty Ltd.</th>
+                                                    <th class="text-muted">camila</th>
                                                     <td>20/02/2014</td>
                                                     <td>19/02/2020</td>
-                                                    <td><span class="badge badge-success">Paid</span></td>
+                                                    <td><span class="badge badge-success">pagado</span></td>
                                                 </tr>
                                             </tbody>
                                         </table>
