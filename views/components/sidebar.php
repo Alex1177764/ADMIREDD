@@ -12,7 +12,7 @@
                             <li class="menu-title">Opciones</li>
 
                             <li>
-                                <a href="?c=dashboard&m=dashboard">
+                                <a href="?c=pqr&m=pqr">
                                     <i class="mdi mdi-view-dashboard"></i>
                                     <span> Panel </span>
                                 </a>

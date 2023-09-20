@@ -35,7 +35,7 @@
                         <h2>Iniciar Sesión</h2>
                         <input type="text" placeholder="Correo Electronico" value="alex@gmail.com">
                         <input type="password" placeholder="Contraseña" value="alex12345">
-                        <button><a href="?c=administrador&m=index">Entrar</a></button>
+                        <button><a href="?c=pqr&m=pqr">Entrar</a></button>
                     </form>
 
                     <!--Register-->
